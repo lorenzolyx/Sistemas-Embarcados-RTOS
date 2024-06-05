@@ -2,7 +2,7 @@
 
 - Esquemático
 
-<img src="https://github.com/lorenzolyx/Sistemas-Embarcados-RTOS/blob/9e4454d9bd8f3298ef6c0eab0596add117eec0a5/pcb.png">
+<img src="https://github.com/lorenzolyx/Sistemas-Embarcados-RTOS/blob/ac933ae7b05171139ccbd31194129384efbffbae/esquematico.png">
 
 - PCD
 
